@@ -34,3 +34,12 @@ Download here:
 https://grouplens.org/datasets/movielens/100k/
 
 After downloading, extract into: data/
+
+---
+## 📸 Preview
+
+### 🎭 Genre Recommendations
+![Genre UI](a1.png)
+
+### ⭐ Personalized Recommendations
+![Recommendation UI](a2.png)
