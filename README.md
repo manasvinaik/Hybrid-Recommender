@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System (Hybrid + Cold Start)
+# 🎬 Hybrid Movie Recommender System
 
 This is a project for the subject Artificial Intelligence under KJSCE Academic Year 2025-2026. 
 An interactive movie recommendation system built using Python and Streamlit, with content-based filtering to deliver personalized suggestions.
