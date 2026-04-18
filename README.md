@@ -3,7 +3,6 @@
 This is a project for the subject Artificial Intelligence under KJSCE Academic Year 2025-2026. 
 An interactive movie recommendation system built using Python and Streamlit, with content-based filtering to deliver personalized suggestions.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ An interactive movie recommendation system built using Python and Streamlit, wit
   - Recommends similar movies based on user preferences
 
 
----
 
 ## 🧰 Tech Stack
 
@@ -26,7 +24,6 @@ An interactive movie recommendation system built using Python and Streamlit, wit
 - Surprise
 - LightFM
 
----
 
 ## 📂 Dataset
 
@@ -37,7 +34,6 @@ https://grouplens.org/datasets/movielens/100k/
 
 After downloading, extract into: data/
 
----
 ## 📸 Preview
 
 ### 🎭 Genre Recommendations
