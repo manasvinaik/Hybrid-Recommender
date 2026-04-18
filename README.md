@@ -19,10 +19,12 @@ An interactive movie recommendation system built using Python and Streamlit, wit
 
 ## 🧰 Tech Stack
 
-- Python
+- Python 3.10
 - Pandas, NumPy
 - Scikit-learn
 - Streamlit
+- Surprise
+- LightFM
 
 ---
 
